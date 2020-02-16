@@ -1,2 +1,2 @@
-# SHC4300
-SW/HW co-development of embedded Systems
+# :artificial_satellite: SHC4300 :lollipop:
+*SW/HW co-development of embedded Systems*

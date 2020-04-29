@@ -40,4 +40,4 @@
 | W12-D1      | Double roof model           | 0         | :x:                 |
 | W12-D2      | Codesign                    | 0         | :x:                 |
 | W12-D3      | Design space exploration    | Victor    | :x:                 |
-| W13-D1      | Array sorter                | Deivy     | :soon:              |
+| W13-D1      | Array sorter                | Deivy     | :x:                 |

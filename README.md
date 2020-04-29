@@ -30,7 +30,7 @@
 | W7-D3       | Cipher alternatives         | 0         | :x:                 |
 | W8-D1       | Cipher math formula         | Victor    | :soon:              |
 | W9-D1       | Cipher ASMD                 | 0         | :soon:              |
-| W10-D1      | Parallelism                 | 0         | :soon:                 |
+| W10-D1      | Parallelism                 | 0         | :soon:              |
 | W10-D2      | HW C statements             | 0         | :x:                 |
 | W10-D3      | HW C program                | 0         | :x:                 |
 | W10-D4      | FSMD C program              | 0         | :x:                 |
@@ -40,4 +40,4 @@
 | W12-D1      | Double roof model           | 0         | :x:                 |
 | W12-D2      | Codesign                    | 0         | :x:                 |
 | W12-D3      | Design space exploration    | Victor    | :x:                 |
-| W13-D1      | Array sorter                | 0         | :x:                 |
+| W13-D1      | Array sorter                | Deivy     | :soon:              |

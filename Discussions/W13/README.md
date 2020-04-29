@@ -1,0 +1,17 @@
+## W13 Apr 15 (D1) Array sorter
+
+*N.B.: This question is inspired in Patrick R. Schaumont, “A Practical Introduction to Hardware/Software Codesign“, Problem 5.2, pp. 151-152.*
+
+
+### Consider a high-speed sorter for four 32-bit registers (Fig. 5.12):
+
+<img src="0.images/w13d1.png" width="450">
+
+>Fig. 5.12 Sorter design for Problem 5.2
+
+ 
+### **Tasks:**
+
+1. Present an FSMD architecture that implements this functionality.
+
+2. Can you compare the speed of your hardware architecture to an equivalent software solution?

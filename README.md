@@ -14,9 +14,9 @@
 | W2-D5       | Odd parity gen. FMSD        | 0         | :x:                 |
 | W2-D6       | Debouncing FSMD             | 0         | :soon:              |
 | W3-D1       | UART ASMD                   | 0         | :soon:              |
-| W3-D2       | UART ASCII LED              | 0         | :white_check_mark:  |
+| W3-D2       | UART ASCII LED              | Deivy     | :white_check_mark:  |
 | W3-D3       | Cheating e-dice UART        | 0         | :x:                 |
-| W3-D4       | ABC player FSMD             | 0         | :soon:              |
+| W3-D4       | ABC player FSMD             | Victor    | :white_check_mark:  |
 | W4-D1       | Tune duration vs. RAM size  | 0         | :x:                 |
 | W4-D2       | ABC Player                  | 0         | :x:                 |
 | W4-D3       | ABC Player ASMD             | 0         | :soon:              |

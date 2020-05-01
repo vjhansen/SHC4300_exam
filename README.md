@@ -14,9 +14,9 @@
 | W2-D5       | Odd parity gen. FMSD        | 0         | :x:                 |
 | W2-D6       | Debouncing FSMD             | 0         | :soon:              |
 | W3-D1       | UART ASMD                   | 0         | :soon:              |
-| W3-D2       | UART ASCII LED              | 0         | :white_check_mark:  |
-| W3-D3       | Cheating e-dice UART        | 0         | :x:                 |
-| W3-D4       | ABC player FSMD             | 0         | :soon:              |
+| W3-D2       | UART ASCII LED              | Deivy     | :white_check_mark:  |
+| W3-D3       | Cheating e-dice UART        | Deivy     | :soon:              |
+| W3-D4       | ABC player FSMD             | Victor    | :white_check_mark:  |
 | W4-D1       | Tune duration vs. RAM size  | 0         | :x:                 |
 | W4-D2       | ABC Player                  | 0         | :x:                 |
 | W4-D3       | ABC Player ASMD             | 0         | :soon:              |
@@ -30,7 +30,7 @@
 | W7-D3       | Cipher alternatives         | 0         | :x:                 |
 | W8-D1       | Cipher math formula         | Victor    | :soon:              |
 | W9-D1       | Cipher ASMD                 | 0         | :soon:              |
-| W10-D1      | Parallelism                 | 0         | :soon:                 |
+| W10-D1      | Parallelism                 | 0         | :soon:              |
 | W10-D2      | HW C statements             | 0         | :x:                 |
 | W10-D3      | HW C program                | 0         | :x:                 |
 | W10-D4      | FSMD C program              | 0         | :x:                 |
@@ -40,4 +40,4 @@
 | W12-D1      | Double roof model           | 0         | :x:                 |
 | W12-D2      | Codesign                    | 0         | :x:                 |
 | W12-D3      | Design space exploration    | Victor    | :x:                 |
-| W13-D1      | Array sorter                | 0         | :x:                 |
+| W13-D1      | Array sorter                | Deivy     | :x:                 |

@@ -9,5 +9,6 @@ Consider a sequence of ASCII codes representing musical notes that need to be st
  
  
  #### Proposed Block Diagram
-![mydiag](D4_ABC/diagram/D4_block_diagram.png)
+
+<img src="diagram/D4_block_diagram.png" alt="drawing" width="600">
 

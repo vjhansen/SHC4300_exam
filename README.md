@@ -35,8 +35,8 @@
 | W10-D2      | HW C statements             | :x:                 |
 | W10-D3      | HW C program                | :x:                 |
 | W10-D4      | FSMD C program              | :x:                 |
-| W11-D1      | Coprocessor                 | :x:                 |
-| W11-D2      | Codesign                    | :x:                 |
+| W11-D1      | Coprocessor                 | :white_check_mark:  |
+| W11-D2      | Codesign                    | :white_check_mark:  |
 | W11-D3      | Double roof model           | :white_check_mark:  |
 | W12-D1      | Double roof model           | :white_check_mark:  |
 | W12-D2      | Codesign                    | :white_check_mark:  |

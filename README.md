@@ -38,7 +38,7 @@
 | W11-D1      | Coprocessor                 | :x:                 |
 | W11-D2      | Codesign                    | :x:                 |
 | W11-D3      | Double roof model           | :x:                 |
-| W12-D1      | Double roof model           | :x:                 |
+| W12-D1      | Double roof model           | :soon:              |
 | W12-D2      | Codesign                    | :white_check_mark:  |
 | W12-D3      | Design space exploration    | :white_check_mark:  |
 | W13-D1      | Array sorter                | :x:                 |

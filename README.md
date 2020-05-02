@@ -39,6 +39,6 @@
 | W11-D2      | Codesign                    | 0         | :x:                 |
 | W11-D3      | Double roof model           | 0         | :x:                 |
 | W12-D1      | Double roof model           | 0         | :x:                 |
-| W12-D2      | Codesign                    | 0         | :x:                 |
-| W12-D3      | Design space exploration    | Victor    | :x:                 |
+| W12-D2      | Codesign                    | 0         | :white_check_mark:  |
+| W12-D3      | Design space exploration    | Victor    | :white_check_mark:  |
 | W13-D1      | Array sorter                | Deivy     | :x:                 |

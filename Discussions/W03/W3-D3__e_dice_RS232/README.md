@@ -15,8 +15,6 @@
 ---
 ## Tasks
 ---
-1. Represent a block diagram for the entire circuit. Is it an appropriate application for a small FSMD?
+#### 1. Represent a block diagram for the entire circuit. Is it an appropriate application for a small FSMD?
 
-2. Create a Vivado project to implement this architecture and check the correctness of your solution by simulation.
-
-3. Program the Basys-3 board and demonstrate the operation of your solution.
+#### 2. Create a Vivado project to implement this architecture and check the correctness of your solution by simulation.

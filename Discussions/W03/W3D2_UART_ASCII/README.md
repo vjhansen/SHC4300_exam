@@ -1,4 +1,4 @@
-### W03 Jan 29 (D2) Receive ASCII codes via RS232 and display them on the Basys-3 leds
+### W03-D2 Receive ASCII codes via RS232 and display them on the Basys-3 leds
 
 **Tasks:**
 

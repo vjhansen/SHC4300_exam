@@ -1,10 +1,8 @@
-# :artificial_satellite: SHC4300 :lollipop:
+# SHC4300 EXAM
 *SW/HW co-development of embedded Systems*
 
 [OOP4200 - VHDL SUMMARY](https://github.com/deivyka/OOP4200/blob/master/VHDL_bigBoy.md)
 
-
-<img src="/other%20resources/images/block.png" alt="drawing" width="500"/>
 
 
 | Discussion  | Description                 | Status              |

@@ -7,7 +7,7 @@
 
 | Discussion  | Description                 | Status              |
 | ----------- | --------------------------- | ------------------- |
-| W1-D1       | Simple CPU                  | :soon:              |
+| W1-D1       | Simple CPU                  | Victor :soon:       |
 | W2-D1       | Simple CPU: JRZ             | :x:                 |
 | W2-D2       | Cheating e-dice FSMD        | :white_check_mark:  |
 | W2-D3       | Binary Mult. FSMD           | :soon:              |

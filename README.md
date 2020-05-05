@@ -10,7 +10,7 @@
 | W1-D1       | Simple CPU                  | :white_check_mark:  |
 | W2-D1       | Simple CPU: JRZ             | :white_check_mark:  |
 | W2-D2       | Cheating e-dice FSMD        | :white_check_mark:  |
-| W2-D3       | Binary Mult. FSMD           | :soon:              |
+| W2-D3       | Binary Mult. FSMD           | Victor :soon:       |
 | W2-D4       | Odd parity gen. FMSD        | :x:                 |
 | W2-D5       | Odd parity gen. FMSD        | :x:                 |
 | W2-D6       | Debouncing FSMD             | :soon:              |

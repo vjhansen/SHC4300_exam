@@ -46,14 +46,13 @@
 
 ----
 
-11-12 Q's 
+**Total: 11 Qs** 
 
-* 1: FSM with datapath
-* 2: Music Box/ABC Player. 2 Qs related to assignment
-* 3: Napoleon Cipher. 
-* 4: HWSW CO-design 
-* 5: HWSW CO-design: Equivalence between C-code and HW blocks, definition of terms.
-* 6: Array sorting - 3 Qs, ASMD, 
+* 1: FSM with datapath, ASMD -  2 Qs
+* 2: Music Box/ABC Player - 2 Qs related to assignment
+* 3: Napoleon Cipher - 2 Qs
+* 4-5: General HWSW Co-design - 2 Qs, equivalence between C-code/SW and HW blocks (FSMD), definition of terms.
+* 6: Array sorting - 3 Qs, ASMD.
 
-Dont write too much.
-Qs about ASMD charts, the charts doesn't have to be complete, could just contain certain states. Draw by hand and upload image. If you are asked to modify an ASMD chart you can just answer by words.
+Last Q is complex. Dont write too much. Qs about ASMD charts, the charts doesn't have to be complete, could just contain certain states. Draw by hand and upload image. If you are asked to modify an ASMD chart you can just answer by words.
+Estimate 20-24 min pr. Q.

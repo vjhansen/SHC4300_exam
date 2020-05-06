@@ -32,7 +32,7 @@
 | W7-D3       | Cipher alternatives         | :x:                 |
 | W8-D1       | Cipher math formula         | :soon:              |
 | W9-D1       | Cipher ASMD                 | :soon:              |
-| W10-D1      | Parallelism                 | :soon:              |
+| W10-D1      | Parallelism                 | :white_check_mark:  |
 | W10-D2      | HW C statements             | :x:                 |
 | W10-D3      | HW C program                | :x:                 |
 | W10-D4      | FSMD C program              | :x:                 |

@@ -25,7 +25,7 @@
 | W4-D4       | ABC Player ASMD             | :x:                 |
 | W5-D1       | ABC Player                  | :x:                 |
 | W5-D2       | Electronic piano            | :x:                 |
-| W6-D1       | Cipher FSMD                 | :soon:              |
+| W6-D1       | Cipher FSMD                 | :white_check_mark:  |
 | W6-D2       | Cipher FSMD                 | :x:                 |
 | W7-D1       | Cipher key                  | :x:                 |
 | W7-D2       | Cipher key                  | :x:                 |

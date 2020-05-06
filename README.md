@@ -1,8 +1,9 @@
 # SHC4300 EXAM
 *SW/HW co-development of embedded Systems*
 
-[OOP4200 - VHDL SUMMARY](https://github.com/deivyka/OOP4200/blob/master/VHDL_bigBoy.md)
+> #### [OOP4200 - VHDL SUMMARY](https://github.com/deivyka/OOP4200/blob/master/VHDL_bigBoy.md)
 
+> #### [SHC4300 - CCW 1, 2, 4](https://github.com/deivyka/SHC4300)
 
 
 | Discussion  | Description                 | Status              |
@@ -11,8 +12,8 @@
 | W2-D1       | Simple CPU: JRZ             | :white_check_mark:  |
 | W2-D2       | Cheating e-dice FSMD        | :white_check_mark:  |
 | W2-D3       | Binary Mult. FSMD           | Victor :soon:       |
-| W2-D4       | Odd parity gen. FMSD        | Victor :soon:       |
-| W2-D5       | Odd parity gen. FMSD        | Victor :soon:       |
+| W2-D4       | Odd parity gen. FMSD        | :white_check_mark:  |
+| W2-D5       | Odd parity gen. FMSD        | :white_check_mark:  |
 | W2-D6       | Debouncing FSMD             | :soon:              |
 | W3-D1       | UART ASMD                   | :soon:              |
 | W3-D2       | UART ASCII LED              | :white_check_mark:  |
@@ -24,14 +25,14 @@
 | W4-D4       | ABC Player ASMD             | :x:                 |
 | W5-D1       | ABC Player                  | :x:                 |
 | W5-D2       | Electronic piano            | :x:                 |
-| W6-D1       | Cipher FSMD                 | :soon:              |
+| W6-D1       | Cipher FSMD                 | :white_check_mark:  |
 | W6-D2       | Cipher FSMD                 | :x:                 |
 | W7-D1       | Cipher key                  | :x:                 |
 | W7-D2       | Cipher key                  | :x:                 |
 | W7-D3       | Cipher alternatives         | :x:                 |
 | W8-D1       | Cipher math formula         | :soon:              |
 | W9-D1       | Cipher ASMD                 | :soon:              |
-| W10-D1      | Parallelism                 | :soon:              |
+| W10-D1      | Parallelism                 | :white_check_mark:  |
 | W10-D2      | HW C statements             | :x:                 |
 | W10-D3      | HW C program                | :x:                 |
 | W10-D4      | FSMD C program              | :x:                 |

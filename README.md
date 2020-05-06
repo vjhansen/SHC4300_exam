@@ -49,7 +49,7 @@
 **Total: 11 Qs** 
 
 * 1: FSM with datapath, ASMD -  2 Qs
-* 2: Music Box/ABC Player - 2 Qs related to assignment
+* 2: Music Box/ABC Player - 2 Qs, related to assignment
 * 3: Napoleon Cipher - 2 Qs
 * 4-5: General HWSW Co-design - 2 Qs, equivalence between C-code/SW and HW blocks (FSMD), definition of terms.
 * 6: Array sorting - 3 Qs, ASMD.

@@ -1,9 +1,9 @@
 # SHC4300 EXAM
 *SW/HW co-development of embedded Systems*
 
->[OOP4200 - VHDL SUMMARY](https://github.com/deivyka/OOP4200/blob/master/VHDL_bigBoy.md)
+> #### [OOP4200 - VHDL SUMMARY](https://github.com/deivyka/OOP4200/blob/master/VHDL_bigBoy.md)
 
->[SHC4300 - CCW 1, 2, 4](https://github.com/deivyka/SHC4300)
+> #### [SHC4300 - CCW 1, 2, 4](https://github.com/deivyka/SHC4300)
 
 
 | Discussion  | Description                 | Status              |

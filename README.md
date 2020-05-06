@@ -55,4 +55,4 @@
 * 6: Array sorting - 3 Qs, ASMD.
 
 Last Q is complex. Dont write too much. Qs about ASMD charts, the charts doesn't have to be complete, could just contain certain states. Draw by hand and upload image. If you are asked to modify an ASMD chart you can just answer by words.
-Estimate 20-24 min pr. Q.
+Estimate 20-24 min pr. Q. Always answer something.

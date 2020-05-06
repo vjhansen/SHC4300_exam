@@ -42,3 +42,19 @@
 | W12-D2      | Codesign                    | :white_check_mark:  |
 | W12-D3      | Design space exploration    | :white_check_mark:  |
 | W13-D1      | Array sorter                | :x:                 |
+
+
+
+----
+
+11-12 Q's 
+
+* 1: FSM with datapath
+* 2: Music Box/ABC Player. 2 Qs related to assignment
+* 3: Napoleon Cipher. 
+* 4: HWSW CO-design 
+* 5: HWSW CO-design: Equivalence between C-code and HW blocks, definition of terms.
+* 6: Array sorting - 3 Qs, ASMD, 
+
+Dont write too much.
+Qs about changing ASMD chart, the charts doesn't have to be complete, could just contain certain states.

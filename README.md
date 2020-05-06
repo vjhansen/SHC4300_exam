@@ -44,7 +44,6 @@
 | W13-D1      | Array sorter                | :x:                 |
 
 
-
 ----
 
 11-12 Q's 
@@ -57,4 +56,4 @@
 * 6: Array sorting - 3 Qs, ASMD, 
 
 Dont write too much.
-Qs about changing ASMD chart, the charts doesn't have to be complete, could just contain certain states.
+Qs about ASMD charts, the charts doesn't have to be complete, could just contain certain states. Draw by hand and upload image. If you are asked to modify an ASMD chart you can just answer by words.

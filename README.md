@@ -27,7 +27,7 @@
 | W5-D2       | Electronic piano            | :x:                 |
 | W6-D1       | Cipher FSMD                 | :white_check_mark:  |
 | W6-D2       | Cipher FSMD                 | :x:                 |
-| W7-D1       | Cipher key                  | :x:                 |
+| W7-D1       | Cipher key                  | :white_check_mark:  |
 | W7-D2       | Cipher key                  | :x:                 |
 | W7-D3       | Cipher alternatives         | :x:                 |
 | W8-D1       | Cipher math formula         | :soon:              |

@@ -26,7 +26,7 @@
 | W5-D1       | ABC Player                  | :x:                 |
 | W5-D2       | Electronic piano            | :x:                 |
 | W6-D1       | Cipher FSMD                 | :white_check_mark:  |
-| W6-D2       | Cipher FSMD                 | :x:                 |
+| W6-D2       | Cipher FSMD                 | Victor :soon:       |
 | W7-D1       | Cipher key                  | :x:                 |
 | W7-D2       | Cipher key                  | :x:                 |
 | W7-D3       | Cipher alternatives         | :x:                 |

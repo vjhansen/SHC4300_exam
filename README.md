@@ -14,7 +14,7 @@
 | W2-D3       | Binary Mult. FSMD           | Victor :soon:       |
 | W2-D4       | Odd parity gen. FMSD        | :white_check_mark:  |
 | W2-D5       | Odd parity gen. FMSD        | :white_check_mark:  |
-| W2-D6       | Debouncing FSMD             | :soon:              |
+| W2-D6       | Debouncing FSMD             | Victor :soon:       |
 | W3-D1       | UART ASMD                   | :soon:              |
 | W3-D2       | UART ASCII LED              | :white_check_mark:  |
 | W3-D3       | Cheating e-dice UART        | :soon:              |
@@ -26,7 +26,7 @@
 | W5-D1       | ABC Player                  | :x:                 |
 | W5-D2       | Electronic piano            | :x:                 |
 | W6-D1       | Cipher FSMD                 | :white_check_mark:  |
-| W6-D2       | Cipher FSMD                 | Victor :soon:       |
+| W6-D2       | Cipher FSMD                 | :x:                 |
 | W7-D1       | Cipher key                  | :x:                 |
 | W7-D2       | Cipher key                  | :x:                 |
 | W7-D3       | Cipher alternatives         | :x:                 |

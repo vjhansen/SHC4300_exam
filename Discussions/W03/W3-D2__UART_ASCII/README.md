@@ -15,7 +15,7 @@ A UART includes a transmitter (tx) and a receiver (rx). The transmitter is a spe
 * The serial line is `1` when it is idle. 
 * The transmission starts with a start bit, which is `0`, followed by data bits and an optional parity bit, and ends with stop bits, which are `1`. 
 * The number of data bits can be 6, 7, or 8. 
-* The optional parity bit is used for error detection. For odd parity, it is set to `0` when the data bits have an odd number of 1’s. For even parity, it is set to `0` when the data bits have an even number of 1’s.
+* The optional parity bit is used for error detection. For odd parity, it is set to `1` when the data bits have an odd number of 1’s. For even parity, it is set to `0` when the data bits have an even number of 1’s.
 
 <img src="0.images/uart.png" alt="drawing" width="450" height="125"/>
 

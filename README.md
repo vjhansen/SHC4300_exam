@@ -20,7 +20,7 @@
 | W3-D3       | Cheating e-dice UART        | :soon:              |
 | W3-D4       | ABC player FSMD             | :white_check_mark:  |
 | W4-D1       | Tune duration vs. RAM size  | :white_check_mark:  |
-| W4-D2       | ABC Player                  | :x:                 |
+| W4-D2       | ABC Player                  | :soon:              |
 | W4-D3       | ABC Player ASMD             | :soon:              |
 | W4-D4       | ABC Player ASMD             | :x:                 |
 | W5-D1       | ABC Player                  | :x:                 |

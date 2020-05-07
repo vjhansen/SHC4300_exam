@@ -12,13 +12,12 @@
 *Universal asynchronous receiver and transmitter* (UART) is a circuit that sends parallel data through a serial line. 
 A UART includes a transmitter (tx) and a receiver (rx). The transmitter is a special shift register that loads data in parallel and then shifts it out bit by bit at a specific rate. The receiver shifts in data bit by bit and then reassembles the data. 
 
-* The serial line is '1' when it is idle. 
-* The transmission starts with a start bit, which is '0', followed by data bits and an optional parity bit, and ends with stop bits, which are '1'. 
+* The serial line is `1` when it is idle. 
+* The transmission starts with a start bit, which is `0`, followed by data bits and an optional parity bit, and ends with stop bits, which are `1`. 
 * The number of data bits can be 6, 7, or 8. 
-* The optional parity bit is used for error detection. For odd parity, it is set to ’0’ when the data bits have an odd number of 1’s. For even parity, it is set to ’0’ when the data bits have an even number of 1’s.
+* The optional parity bit is used for error detection. For odd parity, it is set to `0` when the data bits have an odd number of 1’s. For even parity, it is set to `0` when the data bits have an even number of 1’s.
 
 <img src="0.images/uart.png" alt="drawing" width="450" height="125"/>
-
 
 
 The transmission with 8 data bits, no parity, and 1 stop bit is shown in the figure above. The LSB of the data word is transmitted first. Before the transmission starts, the tx and rx must agree on a set of parameters in advance, which include the baud rate (e.g. 19200 bps), the number of data bits and stop bits, and use of the parity bit.

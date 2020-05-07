@@ -29,7 +29,7 @@
 | W6-D2       | Cipher FSMD                 | :x:                 |
 | W7-D1       | Cipher key                  | :white_check_mark:  |
 | W7-D2       | Cipher key                  | Victor :soon:       |
-| W7-D3       | Cipher alternatives         | :x:                 |
+| W7-D3       | Cipher alternatives         | Deivy :soon:        |
 | W8-D1       | Cipher math formula         | :soon:              |
 | W9-D1       | Cipher ASMD                 | :soon:              |
 | W10-D1      | Parallelism                 | :white_check_mark:  |

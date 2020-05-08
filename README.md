@@ -22,7 +22,7 @@
 | [W4-D1](/Discussions/W04/W4-D1.md)       | Tune duration vs. RAM size  | :white_check_mark:  |
 | [W4-D2](/Discussions/W04/W4-D2.md)       | ABC Notation                | :soon:              |
 | [W4-D3](/Discussions/W04/W4-D3.md)       | ABC Player ASMD design      | :white_check_mark:  |
-| [W4-D4](/Discussions/W04/W4-D4.md)       | ABC Player ASMD analysis    | :x:                 |
+| [W4-D4](/Discussions/W04/W4-D4.md)       | ABC Player ASMD analysis    | :white_check_mark:  |
 | [W5-D1](/Discussions/W05/W5-D1.md)       | ABC Player features         | :soon:              |
 | [W5-D2](/Discussions/W05/W5-D2.md)       | Electronic piano            | :x:                 |
 | [W6-D1](/Discussions/W06/W6-D1.md)       | Cipher FSMD                 | :white_check_mark:  |

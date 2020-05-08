@@ -29,7 +29,7 @@
 | [W6-D2](/Discussions/W06/W6-D2.md)       | Cipher FSMD                 | :x:                 |
 | [W7-D1](/Discussions/W07/W7-D1.md)       | Cipher key                  | :white_check_mark:  |
 | [W7-D2](/Discussions/W07/W7-D2.md)       | Cipher key                  | :soon:              |
-| [W7-D3](/Discussions/W07/W7-D3.md)       | Cipher alternatives         | Deivy :soon:        |
+| [W7-D3](/Discussions/W07/W7-D3.md)       | Cipher alternatives         | :white_check_mark:  |
 | [W8-D1](/Discussions/W08/W8-D1.md)       | Cipher math formula         | :soon:              |
 | [W9-D1](/Discussions/W09/W9-D1.md)       | Cipher ASMD                 | :soon:              |
 | [W10-D1](/Discussions/W10/W10-D1.md)     | Parallelism                 | :white_check_mark:  |

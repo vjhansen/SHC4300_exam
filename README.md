@@ -12,13 +12,13 @@
 | [W2-D1](/Discussions/W02/W2-D1.md)       | Simple CPU: JRZ             | :white_check_mark:  |
 | [W2-D2](/Discussions/W02/W2-D2.md)       | Cheating e-dice FSMD        | :white_check_mark:  |
 | [W2-D3](/Discussions/W02/W2-D3.md)       | Binary Mult. FSMD           | :soon:              |
-| [W2-D4](/Discussions/W02/W2-D4-D5.md)    | Odd parity gen. FMSD        | :white_check_mark:  |
-| [W2-D5](/Discussions/W02/W2-D4-D5.md)    | Odd parity gen. FMSD        | :white_check_mark:  |
+| [W2-D4](/Discussions/W02/W2-D4-D5.md)    | Odd parity gen. ASMD        | :white_check_mark:  |
+| [W2-D5](/Discussions/W02/W2-D4-D5.md)    | Odd parity gen. Flow        | :white_check_mark:  |
 | [W2-D6](/Discussions/W02/W2-D6.md)       | Debouncing FSMD             | :soon:              |
-| [W3-D1](/Discussions/W03/W3-D1.md)       | UART ASMD                   | :soon:              |
-| [W3-D2](/Discussions/W03/)               | UART ASCII LED              | :white_check_mark:  |
-| [W3-D3](/Discussions/W03/)               | Cheating e-dice UART        | :soon:              |
-| [W3-D4](/Discussions/W03/)               | ABC player FSMD             | :white_check_mark:  |
+| [W3-D1](/Discussions/W03/W3-D1.md)       | UART ASMD                   | :white_check_mark:  |
+| [W3-D2](/Discussions/W03/W3-D2.md)       | UART ASCII LED              | :white_check_mark:  |
+| [W3-D3](/Discussions/W03/W3-D3.md)       | Cheating e-dice UART        | :soon:              |
+| [W3-D4](/Discussions/W03/W3-D4.md)       | ABC player FSMD             | :white_check_mark:  |
 | [W4-D1](/Discussions/W04/W4-D1.md)       | Tune duration vs. RAM size  | :white_check_mark:  |
 | [W4-D2](/Discussions/W04/W4-D2.md)       | ABC Player                  | :soon:              |
 | [W4-D3](/Discussions/W04/W4-D3.md)       | ABC Player ASMD             | :white_check_mark:  |

@@ -17,7 +17,7 @@
 | [W2-D6](/Discussions/W02/W2-D6.md)       | Debouncing FSMD             | :soon:              |
 | [W3-D1](/Discussions/W03/W3-D1.md)       | UART ASMD                   | :white_check_mark:  |
 | [W3-D2](/Discussions/W03/W3-D2.md)       | UART ASCII LED              | :white_check_mark:  |
-| [W3-D3](/Discussions/W03/W3-D3.md)       | Cheating e-dice UART        | :soon:              |
+| [W3-D3](/Discussions/W03/W3-D3.md)       | Cheating e-dice UART        | :white_check_mark:  |
 | [W3-D4](/Discussions/W03/W3-D4.md)       | ABC player FSMD             | :white_check_mark:  |
 | [W4-D1](/Discussions/W04/W4-D1.md)       | Tune duration vs. RAM size  | :white_check_mark:  |
 | [W4-D2](/Discussions/W04/W4-D2.md)       | ABC Notation                | :soon:              |

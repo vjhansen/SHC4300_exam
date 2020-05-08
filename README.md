@@ -20,15 +20,15 @@
 | [W3-D3](/Discussions/W03/W3-D3.md)       | Cheating e-dice UART        | :soon:              |
 | [W3-D4](/Discussions/W03/W3-D4.md)       | ABC player FSMD             | :white_check_mark:  |
 | [W4-D1](/Discussions/W04/W4-D1.md)       | Tune duration vs. RAM size  | :white_check_mark:  |
-| [W4-D2](/Discussions/W04/W4-D2.md)       | ABC Player                  | :soon:              |
-| [W4-D3](/Discussions/W04/W4-D3.md)       | ABC Player ASMD             | :white_check_mark:  |
-| [W4-D4](/Discussions/W04/W4-D4.md)       | ABC Player ASMD             | :x:                 |
-| [W5-D1](/Discussions/W05/W5-D1.md)       | ABC Player                  | :soon:              |
+| [W4-D2](/Discussions/W04/W4-D2.md)       | ABC Notation                | :soon:              |
+| [W4-D3](/Discussions/W04/W4-D3.md)       | ABC Player ASMD design      | :white_check_mark:  |
+| [W4-D4](/Discussions/W04/W4-D4.md)       | ABC Player ASMD analysis    | :x:                 |
+| [W5-D1](/Discussions/W05/W5-D1.md)       | ABC Player features         | :soon:              |
 | [W5-D2](/Discussions/W05/W5-D2.md)       | Electronic piano            | :x:                 |
 | [W6-D1](/Discussions/W06/W6-D1.md)       | Cipher FSMD                 | :white_check_mark:  |
-| [W6-D2](/Discussions/W06/W6-D2.md)       | Cipher FSMD                 | :x:                 |
-| [W7-D1](/Discussions/W07/W7-D1.md)       | Cipher key                  | :white_check_mark:  |
-| [W7-D2](/Discussions/W07/W7-D2.md)       | Cipher key                  | :soon:              |
+| [W6-D2](/Discussions/W06/W6-D2.md)       | Cipher Data Path            | :x:                 |
+| [W7-D1](/Discussions/W07/W7-D1.md)       | Cipher key strength         | :white_check_mark:  |
+| [W7-D2](/Discussions/W07/W7-D2.md)       | Cipher key switches         | :soon:              |
 | [W7-D3](/Discussions/W07/W7-D3.md)       | Cipher alternatives         | :white_check_mark:  |
 | [W8-D1](/Discussions/W08/W8-D1.md)       | Cipher math formula         | :soon:              |
 | [W9-D1](/Discussions/W09/W9-D1.md)       | Cipher ASMD                 | :soon:              |
@@ -39,8 +39,8 @@
 | [W11-D1](/Discussions/W11/W11-D1.md)     | Coprocessor                 | :white_check_mark:  |
 | [W11-D2](/Discussions/W11/W11-D2.md)     | Codesign                    | :white_check_mark:  |
 | [W11-D3](/Discussions/W11/W11-D3.md)     | Double roof model           | :white_check_mark:  |
-| [W12-D1](/Discussions/W12/W12-D1.md)     | Double roof model           | :white_check_mark:  |
-| [W12-D2](/Discussions/W12/W12-D2.md)     | Codesign                    | :white_check_mark:  |
+| [W12-D1](/Discussions/W12/W12-D1.md)     | Double roof model views     | :white_check_mark:  |
+| [W12-D2](/Discussions/W12/W12-D2.md)     | Codesign decisions          | :white_check_mark:  |
 | [W12-D3](/Discussions/W12/W12-D3.md)     | Design space exploration    | :white_check_mark:  |
 | [W13-D1](/Discussions/W13/W13-D1.md)     | Array sorter                | :x:                 |
 

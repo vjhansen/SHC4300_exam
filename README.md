@@ -23,7 +23,7 @@
 | [W4-D2](/Discussions/W04/W4-D2.md)       | ABC Player                  | :soon:              |
 | [W4-D3](/Discussions/W04/W4-D3.md)       | ABC Player ASMD             | :white_check_mark:  |
 | [W4-D4](/Discussions/W04/W4-D4.md)       | ABC Player ASMD             | :x:                 |
-| [W5-D1](/Discussions/W05/W5-D1.md)       | ABC Player                  | :x:                 |
+| [W5-D1](/Discussions/W05/W5-D1.md)       | ABC Player                  | Victor :soon:       |
 | [W5-D2](/Discussions/W05/W5-D2.md)       | Electronic piano            | :x:                 |
 | [W6-D1](/Discussions/W06/W6-D1.md)       | Cipher FSMD                 | :white_check_mark:  |
 | [W6-D2](/Discussions/W06/W6-D2.md)       | Cipher FSMD                 | :x:                 |

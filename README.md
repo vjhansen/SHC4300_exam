@@ -23,7 +23,7 @@
 | W4-D2       | ABC Player                  | :soon:              |
 | W4-D3       | ABC Player ASMD             | :white_check_mark:  |
 | W4-D4       | ABC Player ASMD             | :x:                 |
-| W5-D1       | ABC Player                  | :x:                 |
+| W5-D1       | ABC Player                  | Victor :soon:       |
 | W5-D2       | Electronic piano            | :x:                 |
 | W6-D1       | Cipher FSMD                 | :white_check_mark:  |
 | W6-D2       | Cipher FSMD                 | :x:                 |

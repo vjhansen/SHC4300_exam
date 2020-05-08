@@ -16,15 +16,11 @@ The block diagram represented below corresponds to a FSMD architecture that impl
 
 ## Answers
 
-#### 1) Biplav Solution Asmd chart
-
-<img src="/Resources/images/w2d2_ASMD_Biplav.jpg" height="600">
-
-
-#### 2) Biplav Solution Asmd chart
-
+#### 1) Biplav 3x probability Solution Asmd chart
 <img src="/Resources/images/w2d2_ASMD_3xprob_Biplav.jpg" height="700"> 
 
+#### 2) Biplav Modes Solution Asmd chart
+<img src="/Resources/images/w2d2_ASMD_Biplav.jpg">
 
 #### 3) Biplav VHDL Code Solution
 

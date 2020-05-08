@@ -42,7 +42,7 @@
 | [W12-D1](/Discussions/W12/W12-D1.md)     | Double roof model views     | :white_check_mark:  |
 | [W12-D2](/Discussions/W12/W12-D2.md)     | Codesign decisions          | :white_check_mark:  |
 | [W12-D3](/Discussions/W12/W12-D3.md)     | Design space exploration    | :white_check_mark:  |
-| [W13-D1](/Discussions/W13/W13-D1.md)     | Array sorter                | :x:                 |
+| [W13-D1](/Discussions/W13/W13-D1.md)     | Array sorter                | :soon:              |
 
 
 ----

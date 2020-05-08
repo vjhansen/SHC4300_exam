@@ -1,4 +1,6 @@
-## Question
+## W02-D2 The cheating e-dice as a FSMD
+
+### Question
 
 The block diagram represented below corresponds to a FSMD architecture that implements the functional requirements of a cheating electronic dice.
 
@@ -14,7 +16,7 @@ The block diagram represented below corresponds to a FSMD architecture that impl
 
 ---
 
-## Answers
+### Answers
 
 #### 1) Biplav 3x probability Solution Asmd chart
 <img src="/Resources/images/w2d2_ASMD_Biplav.jpg" height="700">

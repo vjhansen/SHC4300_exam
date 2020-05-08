@@ -30,7 +30,7 @@
 | [W7-D1](/Discussions/W07/W7-D1.md)       | Cipher key strength         | :white_check_mark:  |
 | [W7-D2](/Discussions/W07/W7-D2.md)       | Cipher key switches         | :white_check_mark:  |
 | [W7-D3](/Discussions/W07/W7-D3.md)       | Cipher alternatives         | :white_check_mark:  |
-| [W8-D1](/Discussions/W08/W8-D1.md)       | Cipher math formula         | :soon:              |
+| [W8-D1](/Discussions/W08/W8-D1.md)       | Cipher math formula         | :white_check_mark:  |
 | [W9-D1](/Discussions/W09/W9-D1.md)       | Cipher ASMD                 | :soon:              |
 | [W10-D1](/Discussions/W10/W10-D1.md)     | Parallelism                 | :white_check_mark:  |
 | [W10-D2](/Discussions/W10/W10-D2.md)     | HW C statements             | :white_check_mark:  |

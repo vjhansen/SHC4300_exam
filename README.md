@@ -20,8 +20,8 @@
 | W3-D3       | Cheating e-dice UART        | :soon:              |
 | W3-D4       | ABC player FSMD             | :white_check_mark:  |
 | W4-D1       | Tune duration vs. RAM size  | :white_check_mark:  |
-| W4-D2       | ABC Player                  | :x:                 |
-| W4-D3       | ABC Player ASMD             | :soon:              |
+| W4-D2       | ABC Player                  | :soon:              |
+| W4-D3       | ABC Player ASMD             | :white_check_mark:  |
 | W4-D4       | ABC Player ASMD             | :x:                 |
 | W5-D1       | ABC Player                  | :x:                 |
 | W5-D2       | Electronic piano            | :x:                 |
@@ -29,7 +29,7 @@
 | W6-D2       | Cipher FSMD                 | :x:                 |
 | W7-D1       | Cipher key                  | :white_check_mark:  |
 | W7-D2       | Cipher key                  | Victor :soon:       |
-| W7-D3       | Cipher alternatives         | :x:                 |
+| W7-D3       | Cipher alternatives         | Deivy :soon:        |
 | W8-D1       | Cipher math formula         | :soon:              |
 | W9-D1       | Cipher ASMD                 | :soon:              |
 | W10-D1      | Parallelism                 | :white_check_mark:  |

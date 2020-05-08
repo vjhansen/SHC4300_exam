@@ -10,7 +10,7 @@
 | ---------------------------------------- | --------------------------- | ------------------- |
 | [W1-D1](/Discussions/W01/W1-D1.md)       | Simple CPU                  | :white_check_mark:  |
 | [W2-D1](/Discussions/W02/W2-D1.md)       | Simple CPU: JRZ             | :white_check_mark:  |
-| [W2-D2](/Discussions/W02/)               | Cheating e-dice FSMD        | :white_check_mark:  |
+| [W2-D2](/Discussions/W02/W2-D2.md)       | Cheating e-dice FSMD        | :white_check_mark:  |
 | [W2-D3](/Discussions/W02/W2-D3.md)       | Binary Mult. FSMD           | Victor :soon:       |
 | [W2-D4](/Discussions/W02/W2-D4-D5.md)    | Odd parity gen. FMSD        | :white_check_mark:  |
 | [W2-D5](/Discussions/W02/W2-D4-D5.md)    | Odd parity gen. FMSD        | :white_check_mark:  |

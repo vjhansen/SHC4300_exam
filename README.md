@@ -28,7 +28,7 @@
 | [W6-D1](/Discussions/W06/W6-D1.md)       | Cipher FSMD                 | :white_check_mark:  |
 | [W6-D2](/Discussions/W06/W6-D2.md)       | Cipher Data Path            | :x:                 |
 | [W7-D1](/Discussions/W07/W7-D1.md)       | Cipher key strength         | :white_check_mark:  |
-| [W7-D2](/Discussions/W07/W7-D2.md)       | Cipher key switches         | :soon:              |
+| [W7-D2](/Discussions/W07/W7-D2.md)       | Cipher key switches         | :white_check_mark:  |
 | [W7-D3](/Discussions/W07/W7-D3.md)       | Cipher alternatives         | :white_check_mark:  |
 | [W8-D1](/Discussions/W08/W8-D1.md)       | Cipher math formula         | :soon:              |
 | [W9-D1](/Discussions/W09/W9-D1.md)       | Cipher ASMD                 | :soon:              |

@@ -1,20 +1,32 @@
-# Question [Canvas Link](https://usn.instructure.com/courses/20282/discussion_topics/129430) [Pdf Link](W02_Jan_15_D2_The_cheating_e-dice_as_a_FSMD.pdf)
+## Question
 
-# Answers
+The block diagram represented below corresponds to a FSMD architecture that implements the functional requirements of a cheating electronic dice.
 
-### 1) Assume that only two operating modes are supported: no cheating, and triple probability for the result specified by inputs “result(2:0)”. Present an ASMD chart that illustrates the behaviour of this FSMD. N.B.: In this case, “mode” is a single input that defines the no-cheating mode when at ‘0’, and the triple probability mode when at ‘1’.
+<img src="/Resources/images/w2d2_FSMD_Jose.png" width="600">
 
-Solution Asmd chart
-![repo](edice_cheat_asmd_p1.jpg) 
+1. Assume that only two operating modes are supported: no cheating, and triple probability for the result specified by inputs “result(2:0)”. Present an ASMD chart that illustrates the behaviour of this FSMD. N.B.: In this case, “mode” is a single input that defines the no-cheating mode when at ‘0’, and the triple probability mode when at ‘1’.
+
+2. Make all appropriate corrections and / or simplifications to the ASMD chart represented below, which is supposed to illustrate the behaviour of the architecture represented above, when supporting four operating modes (“00”: no-cheating; “01”: forbidden result; “10”: predefined result; “11”: triple probability).  
+
+3. Build the corresponding VHDL description and prove that your solution works by showing simulation results in Vivado.
+
+<img src="/Resources/images/w2d2_ASMD_Jose.png" height="700">
+
+---
+
+## Answers
+
+#### 1) Biplav Solution Asmd chart
+
+<img src="/Resources/images/w2d2_ASMD_Biplav.jpg" height="600">
 
 
-### 2) Make all appropriate corrections and / or simplifications to the ASMD chart represented below, which is supposed to illustrate the behaviour of the architecture represented above, when supporting four operating modes (“00”: no-cheating; “01”: forbidden result; “10”: predefined result; “11”: triple probability).  
+#### 2) Biplav Solution Asmd chart
 
-Solution Asmd chart
-![repo](edice_cheat_asmd_p2.jpg) 
+<img src="/Resources/images/w2d2_ASMD_3xprob_Biplav.jpg" height="700"> 
 
 
-### 3) Build the corresponding VHDL description and prove that your solution works by showing simulation results in Vivado.
+#### 3) Biplav VHDL Code Solution
 
 ```vhdl
 -- Fsm Block 

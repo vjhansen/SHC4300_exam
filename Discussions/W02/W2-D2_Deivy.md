@@ -1,3 +1,5 @@
+## W02 Jan 15 (D2) The cheating e-dice as a FSMD
+
 ## Questions
 
 The block diagram represented below corresponds to a FSMD architecture that implements the functional requirements of a cheating electronic dice.

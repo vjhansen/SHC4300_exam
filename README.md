@@ -11,10 +11,10 @@
 | [W1-D1](/Discussions/W01/W1-D1.md)       | Simple CPU                  | :white_check_mark:  |
 | [W2-D1](/Discussions/W02/W2-D1.md)       | Simple CPU: JRZ             | :white_check_mark:  |
 | [W2-D2](/Discussions/W02/W2-D2.md)       | Cheating e-dice FSMD        | :white_check_mark:  |
-| [W2-D3](/Discussions/W02/W2-D3.md)       | Binary Mult. FSMD           | Victor :soon:       |
+| [W2-D3](/Discussions/W02/W2-D3.md)       | Binary Mult. FSMD           | :soon:              |
 | [W2-D4](/Discussions/W02/W2-D4-D5.md)    | Odd parity gen. FMSD        | :white_check_mark:  |
 | [W2-D5](/Discussions/W02/W2-D4-D5.md)    | Odd parity gen. FMSD        | :white_check_mark:  |
-| [W2-D6](/Discussions/W02/W2-D6.md)       | Debouncing FSMD             | Victor :soon:       |
+| [W2-D6](/Discussions/W02/W2-D6.md)       | Debouncing FSMD             | :soon:              |
 | [W3-D1](/Discussions/W03/W3-D1.md)       | UART ASMD                   | :soon:              |
 | [W3-D2](/Discussions/W03/)               | UART ASCII LED              | :white_check_mark:  |
 | [W3-D3](/Discussions/W03/)               | Cheating e-dice UART        | :soon:              |
@@ -23,12 +23,12 @@
 | [W4-D2](/Discussions/W04/W4-D2.md)       | ABC Player                  | :soon:              |
 | [W4-D3](/Discussions/W04/W4-D3.md)       | ABC Player ASMD             | :white_check_mark:  |
 | [W4-D4](/Discussions/W04/W4-D4.md)       | ABC Player ASMD             | :x:                 |
-| [W5-D1](/Discussions/W05/W5-D1.md)       | ABC Player                  | Victor :soon:       |
+| [W5-D1](/Discussions/W05/W5-D1.md)       | ABC Player                  | :soon:              |
 | [W5-D2](/Discussions/W05/W5-D2.md)       | Electronic piano            | :x:                 |
 | [W6-D1](/Discussions/W06/W6-D1.md)       | Cipher FSMD                 | :white_check_mark:  |
 | [W6-D2](/Discussions/W06/W6-D2.md)       | Cipher FSMD                 | :x:                 |
 | [W7-D1](/Discussions/W07/W7-D1.md)       | Cipher key                  | :white_check_mark:  |
-| [W7-D2](/Discussions/W07/W7-D2.md)       | Cipher key                  | Victor :soon:       |
+| [W7-D2](/Discussions/W07/W7-D2.md)       | Cipher key                  | :soon:              |
 | [W7-D3](/Discussions/W07/W7-D3.md)       | Cipher alternatives         | Deivy :soon:        |
 | [W8-D1](/Discussions/W08/W8-D1.md)       | Cipher math formula         | :soon:              |
 | [W9-D1](/Discussions/W09/W9-D1.md)       | Cipher ASMD                 | :soon:              |

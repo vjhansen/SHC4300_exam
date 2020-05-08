@@ -1,6 +1,6 @@
-## W02 Jan 15 (D2) The cheating e-dice as a FSMD
+## W02-D2 The cheating e-dice as a FSMD
 
-## Questions
+### Questions
 
 The block diagram represented below corresponds to a FSMD architecture that implements the functional requirements of a cheating electronic dice.
 
@@ -16,7 +16,7 @@ The block diagram represented below corresponds to a FSMD architecture that impl
 
 ---
 
-## Answers
+### Answers
 
 #### 1) Deivy ASMD Chart for triple probability
 <img src="/Resources/images/w2d2_ASMD_3xprob.png" width="600">

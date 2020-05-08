@@ -1,13 +1,16 @@
-### W03-D2 Receive ASCII codes via RS232 and display them on the Basys-3 leds
+## W03-D2 Receive ASCII codes via RS232 and display them on the Basys-3 leds
 
-**Tasks:**
+### Questions
 
-* Create a Vivado project for the UART and simulate to make sure that everything is correct.
-* Program the FPGA, and use HyperTerminal or PuTTY to set up the serial communication channel for 19200 bps, 1 stop bit, no parity, and flow control = "None"
+The objective of this assignment is to display in the Basys-3 leds the ASCII codes received via RS232. The same cable that is used to bring power to the board and to program the FPGA, can also be used to receive serial data from the computer (and also to transmit it, if necessary). Since the connection is already there, all that you have to do is to implement an FSMD that comprises a UART and the appropriate interface circuits to drive the leds. Once that circuit is implemented, a terminal emulator program can be used to send to the board the ASCII codes of any key pressed in the keyboard.
 
->You should now see the Basys-3 leds displaying the ASCII codes of any keys pressed on your keyboard.
+1. Create a Vivado project comprising the VHDL files indicated above, make the necessary modifications in the original descriptions, and simulate to make sure that everything is correct
+2. Generate the *.bit file and program the FPGA
+3. Use HyperTerminal or PuTTY to set up the serial communication channel for 19.200 bps, 1 stop bit, no parity, and flow control =  “None” (make sure that you’re using the right virtual COM port)
 
 ---
+
+### Answers
 
 *Universal asynchronous receiver and transmitter* (UART) is a circuit that sends parallel data through a serial line. 
 A UART includes a transmitter (tx) and a receiver (rx). The transmitter is a special shift register that loads data in parallel and then shifts it out bit by bit at a specific rate. The receiver shifts in data bit by bit and then reassembles the data. 
@@ -17,12 +20,12 @@ A UART includes a transmitter (tx) and a receiver (rx). The transmitter is a spe
 * The number of data bits can be 6, 7, or 8. 
 * The optional parity bit is used for error detection. For odd parity, it is set to `1` when the data bits have an odd number of 1’s. For even parity, it is set to `0` when the data bits have an even number of 1’s.
 
-<img src="0.images/uart.png" alt="drawing" width="450" height="125"/>
+<img src="/Resources/images/w3d2_uart.png" width="450" height="125">
 
 
 The transmission with 8 data bits, no parity, and 1 stop bit is shown in the figure above. The LSB of the data word is transmitted first. Before the transmission starts, the tx and rx must agree on a set of parameters in advance, which include the baud rate (e.g. 19200 bps), the number of data bits and stop bits, and use of the parity bit.
 
-<img src="0.images/block_diagram.jpg" alt="drawing" width="550" height="225"/>
+<img src="/Resources/images/w3d2_block_diagram.jpg" width="550" height="225">
 
 >Figure above.
 
@@ -89,6 +92,7 @@ end arch;
 
 #### UART receiver
 Since no clock information is conveyed from the transmitted signal, rx can retrieve the data bits only by using the predetermined parameters. We use an oversampling scheme to estimate the middle points of transmitted bits and then retrieve them at these points accordingly.
+
 ```vhdl
 ----------------------------------------------------------------------------------
 -- listing 7.1
@@ -228,5 +232,9 @@ begin
     end process; 
 end arch;
 ```
+
+#### ASMD Chart
+<img src="/Resources/images/w3d2_ASMD_UART.png" width="600">
+
 
 **Source: FPGA Prototyping by VHDL Examples, Pong P. Chu**

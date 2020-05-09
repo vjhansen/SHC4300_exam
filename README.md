@@ -11,11 +11,11 @@
 | [W1-D1](/Discussions/W01/W1-D1.md)       | Simple CPU                  | :white_check_mark:  |
 | [W2-D1](/Discussions/W02/W2-D1.md)       | Simple CPU: JRZ             | :white_check_mark:  |
 | [W2-D2](/Discussions/W02/W2-D2.md)       | Cheating e-dice FSMD        | :white_check_mark:  |
-| [W2-D3](/Discussions/W02/W2-D3.md)       | Binary Mult. FSMD           | :soon:              |
+| [W2-D3](/Discussions/W02/W2-D3.md)       | Binary Mult. FSMD           | Use Vivado :soon:   |
 | [W2-D4](/Discussions/W02/W2-D4-D5.md)    | Odd parity gen. ASMD        | :white_check_mark:  |
 | [W2-D5](/Discussions/W02/W2-D4-D5.md)    | Odd parity gen. Flow        | :white_check_mark:  |
 | [W2-D6](/Discussions/W02/W2-D6.md)       | Debouncing FSMD             | :soon:              |
-| [W3-D1](/Discussions/W03/W3-D1.md)       | UART ASMD                   | Vivado :soon:       |
+| [W3-D1](/Discussions/W03/W3-D1.md)       | UART ASMD                   | Use Vivado :soon:   |
 | [W3-D2](/Discussions/W03/W3-D2.md)       | UART ASCII LED              | :white_check_mark:  |
 | [W3-D3](/Discussions/W03/W3-D3.md)       | Cheating e-dice UART        | :white_check_mark:  |
 | [W3-D4](/Discussions/W03/W3-D4.md)       | ABC player FSMD             | :white_check_mark:  |

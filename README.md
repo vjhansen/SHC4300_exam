@@ -20,7 +20,7 @@
 | [W3-D3](/Discussions/W03/W3-D3.md)       | Cheating e-dice UART        | :white_check_mark:  |
 | [W3-D4](/Discussions/W03/W3-D4.md)       | ABC player FSMD             | :white_check_mark:  |
 | [W4-D1](/Discussions/W04/W4-D1.md)       | Tune duration vs. RAM size  | :white_check_mark:  |
-| [W4-D2](/Discussions/W04/W4-D2.md)       | ABC Notation                | :soon:              |
+| [W4-D2](/Discussions/W04/W4-D2.md)       | ABC Notation                | :white_check_mark:  |
 | [W4-D3](/Discussions/W04/W4-D3.md)       | ABC Player ASMD design      | :white_check_mark:  |
 | [W4-D4](/Discussions/W04/W4-D4.md)       | ABC Player ASMD analysis    | :white_check_mark:  |
 | [W5-D1](/Discussions/W05/W5-D1.md)       | ABC Player features         | :soon:              |

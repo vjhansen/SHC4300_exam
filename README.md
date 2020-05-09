@@ -34,7 +34,7 @@
 | [W9-D1](/Discussions/W09/W9-D1.md)       | Cipher ASMD                 | :soon:              |
 | [W10-D1](/Discussions/W10/W10-D1.md)     | Parallelism                 | :white_check_mark:  |
 | [W10-D2](/Discussions/W10/W10-D2.md)     | HW C statements             | :white_check_mark:  |
-| [W10-D3](/Discussions/W10/W10-D3.md)     | HW C program                | :x:                 |
+| [W10-D3](/Discussions/W10/W10-D3.md)     | HW C program                | :soon:              |
 | [W10-D4](/Discussions/W10/W10-D4.md)     | FSMD C program              | :x:                 |
 | [W11-D1](/Discussions/W11/W11-D1.md)     | Coprocessor                 | :white_check_mark:  |
 | [W11-D2](/Discussions/W11/W11-D2.md)     | Codesign                    | :white_check_mark:  |

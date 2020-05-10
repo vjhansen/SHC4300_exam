@@ -14,7 +14,7 @@
 | [W2-D3](/Discussions/W02/W2-D3.md)       | Binary Mult. FSMD           | Use Vivado :soon:   |
 | [W2-D4](/Discussions/W02/W2-D4-D5.md)    | Odd parity gen. ASMD        | :white_check_mark:  |
 | [W2-D5](/Discussions/W02/W2-D4-D5.md)    | Odd parity gen. Flow        | :white_check_mark:  |
-| [W2-D6](/Discussions/W02/W2-D6.md)       | Debouncing FSMD             | :soon:              |
+| [W2-D6](/Discussions/W02/W2-D6.md)       | Debouncing FSMD             | :white_check_mark:  |
 | [W3-D1](/Discussions/W03/W3-D1.md)       | UART ASMD                   | Use Vivado :soon:   |
 | [W3-D2](/Discussions/W03/W3-D2.md)       | UART ASCII LED              | :white_check_mark:  |
 | [W3-D3](/Discussions/W03/W3-D3.md)       | Cheating e-dice UART        | :white_check_mark:  |
@@ -26,7 +26,7 @@
 | [W5-D1](/Discussions/W05/W5-D1.md)       | ABC Player features         | :soon:              |
 | [W5-D2](/Discussions/W05/W5-D2.md)       | Electronic piano            | :soon:              |
 | [W6-D1](/Discussions/W06/W6-D1.md)       | Cipher FSMD                 | :white_check_mark:  |
-| [W6-D2](/Discussions/W06/W6-D2.md)       | Cipher Data Path            | :white_check_mark:  |
+| [W6-D2](/Discussions/W06/W6-D2.md)       | Cipher Data Path            | :soon:              |
 | [W7-D1](/Discussions/W07/W7-D1.md)       | Cipher key strength         | :white_check_mark:  |
 | [W7-D2](/Discussions/W07/W7-D2.md)       | Cipher key switches         | :white_check_mark:  |
 | [W7-D3](/Discussions/W07/W7-D3.md)       | Cipher alternatives         | :white_check_mark:  |

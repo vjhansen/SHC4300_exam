@@ -26,7 +26,7 @@
 | [W5-D1](/Discussions/W05/W5-D1.md)       | ABC Player features         | :soon:              |
 | [W5-D2](/Discussions/W05/W5-D2.md)       | Electronic piano            | :white_check_mark:  |
 | [W6-D1](/Discussions/W06/W6-D1.md)       | Cipher FSMD                 | :white_check_mark:  |
-| [W6-D2](/Discussions/W06/W6-D2.md)       | Cipher Data Path            | :soon:              |
+| [W6-D2](/Discussions/W06/W6-D2.md)       | Cipher Data Path            | :white_check_mark:  |
 | [W7-D1](/Discussions/W07/W7-D1.md)       | Cipher key strength         | :white_check_mark:  |
 | [W7-D2](/Discussions/W07/W7-D2.md)       | Cipher key switches         | :white_check_mark:  |
 | [W7-D3](/Discussions/W07/W7-D3.md)       | Cipher alternatives         | :white_check_mark:  |

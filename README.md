@@ -1,4 +1,4 @@
-# SHC4300 EXAM
+# SHC4300 EXAM prep
 *SW/HW co-development of embedded Systems*
 
 > #### [OOP4200 - VHDL SUMMARY](https://github.com/deivyka/OOP4200/blob/master/VHDL_bigBoy.md)
